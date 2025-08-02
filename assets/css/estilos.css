@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/cv.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -37,3 +37,5 @@ body {
   }
 
 }
+
+.ms-auto.col-12.col-md-7 { background-color: rgba(0, 0, 0, 0.5); /* Negro semitransparente */ padding: 20px; /* Añade un poco de espacio alrededor del texto */ border-radius: 10px; /* Opcional: redondea las esquinas para un aspecto más suave */ }
